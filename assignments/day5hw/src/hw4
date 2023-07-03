@@ -1,0 +1,14 @@
+Step 1: Identify all nouns (actors in problem statement)
+	> Student, graduate students, post graduate students, 
+	hostelite, day scholar, faculty member, admin staff,
+	lecturer, visiting members, head of department
+Step 2: Identify all activities (use cases, connect actors to use cases)
+	> course, semester, marked projects/assignments, attendance
+Step 3: Identify the relationship (generalization, specialization, includes)
+	> Semester includes a course, course includes assignments,
+	course includes projects, course includes attendance,
+	course includes lecturer, course includes students
+	> Generalization - Specialization
+		student - graduate student or post graduate student
+		student - hostelite or dayscholar
+		lecturer - full time or visiting member
