@@ -1,4 +1,4 @@
-package HW3;
+package hw3;
 
 public class JaggedArray {
 	public static void main(String[] args) {
