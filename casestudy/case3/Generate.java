@@ -1,6 +1,6 @@
 package case3;
 
-public class AutoGenerate {
+public class Generate {
 	static int travCompCode = 115;
 	static char modeOfTrav;
 	static int tripCode;
